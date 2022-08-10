@@ -567,12 +567,9 @@ intensely. But, if a person is aware of his attitudes, he may be conscious of it
 - Examples
 	- Women, National, International
 	- Civil
-		- 
+		- **Rashmi V Mahesh** - Karnatka Cadre IAS officer fighting relentlessly against corrupt education system. She conducted probe against Administrative Training Institute of Mysore and found irregularities worth Rs. 100Cr. She also investigates seats allocation for Medical and Engineering Colleges. She has been transferred 20 times in 18 years.
 	- Geeta, Mahabhara, Quran etc
-		- 
-- Constitution
-- Flowchart Diagram
-- Conclusion
+		- Vidur (Mahabharat) - Vidur shows integrity when it was required most, during the 'cheerharan' he was the only person from Kaurava's side to speak against it. 
 
 ### impartiality and non-partisanship
 - Quote
