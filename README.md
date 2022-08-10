@@ -438,7 +438,7 @@
 	- These are the factors that determine or shape the ethical standards in an individual and society.
 		- Family, Media, Constitution and legal provisions, Experiences in life, International events, Leaders, philosophers and thinkers
 	- This is the factors in human behaviour that determine whether it is good or bad. There are three such determinants of ethics, namely the object, the end, and the circumstances.
-		- 
+
 - Consequence of Ethics in Human Actions
 	- Only those actions which satisfy the following parameters could be analyzed from an ethical standpoint (A view by St Thomas Aquinas).
 		1.  Involvement of knowledge.
