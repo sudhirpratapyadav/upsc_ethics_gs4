@@ -409,23 +409,18 @@
 -   Linkage between Private relationships and Public relationships
 
 
-## Examples
 
-- **Honesty**
-	- Quotation
+## Example
+- Topics
+	- Quote
 	- Def
-		- Basic
-		- definition
 	- Examples
-	- Constitutional provision
-	- flowchart / diagram
-
-- Examples
-	- Women, National, International, Civil (compusory)
-		- recent, lime light
-	- Mahabharat, Kuran, Bible, Geeta
-	- Philosophers
-- Conclusion
+		- Women, National, International
+		- Civil
+		- Geeta, Mahabhara, Quran etc
+	- Constitution
+	- Flowchart Diagram
+	- Conclusion
 
 ## Chapter 1: Ethics and Human Interface
 ### Syllabus
@@ -435,50 +430,94 @@
 4. Human Values - lessons from the lives and teachings of great leaders reformers and administrators
 5. role of family society and educational institutions in inculcating values
 
-#### Micro Topics
- - Dimensions of Ethics
--   Essence of Ethics
--   Approaches of Ethical Study as Indian Perspective and Western Perspective
--   Basic concept of ethics morality and value
--   Ethics in public life
--   Ethics in Economic Life
--   Freedom and Discipline
--   Duties and Rights
--   Virtue Ethics
--   Consequences of Ethics in Human Actions
--   Values and Ethics in Government:
-	-   Legislature, Executive and judiciary
--   Contribution of Family in Value Education
--   Contribution of Society in Inculcating Values
--   Role of Educational Institutions in Inculcating Values
-- **Human Values**
-	-   Human value & Socialization
-	-   Individual Personality and Value
-	-   Values and Skill
-	-   Fundamental and Instrumental Values
-	-   Democratic values
-	-   Role of ethical value in governance and society
-	-   Significance of value in civil services
-	-   Aesthetic values
-	-   Values in work life and professional ethics
+- Essence of Ethics
+	- It means an essential part and unchanging nature of a thing or person, a vital part of some idea or immaterial entity, or the predominant qualities or central meaning of someone or something.
+	- Basically, Ethics is elaborated as the systematic study of human actions from the perspective of their rightfulness or wrongfulness, as means for the attainment of the definitive happiness.
+	- Ethics is a set of principles that society places on itself and which helps guide behaviour, choices and actions.
+- Determinants of Ethics in Human Actions
+	- These are the factors that determine or shape the ethical standards in an individual and society.
+		- Family, Media, Constitution and legal provisions, Experiences in life, International events, Leaders, philosophers and thinkers
+	- This is the factors in human behaviour that determine whether it is good or bad. There are three such determinants of ethics, namely the object, the end, and the circumstances.
+		- 
+- Consequence of Ethics in Human Actions
+	- Only those actions which satisfy the following parameters could be analyzed from an ethical standpoint (A view by St Thomas Aquinas).
+		1.  Involvement of knowledge.
+		2.  Voluntariness
+		3.  Free will
+- Dimensions/Branches of Ethics
+	- Descriptive Ethics
+	- Normative Ethics
+	- Meta-Ethics
+	- Applied Ethics
+- Ethics in Private Relationships
+- Ethics in Public Relationships
 
-### Content
-- Dimensions of Ethics
-	- 
--  Essence of Ethics
--  Approaches of Ethical Study as Indian Perspective and Western Perspective
--  Basic concept of ethics morality and value
--  Ethics in public life
--  Ethics in Economic Life
--  Freedom and Discipline
--  Duties and Rights
--   Virtue Ethics
--   Consequences of Ethics in Human Actions
--   Values and Ethics in Government:
-	-   Legislature, Executive and judiciary
--   Contribution of Family in Value Education
--   Contribution of Society in Inculcating Values
--   Role of Educational Institutions in Inculcating Values
+### Human Values - lessons from the lives and teachings of great leaders reformers and administrators
+#### Truth
+- Mahatma Gandhi - Even if you are a minority of one, the truth is the truth.
+- Def - Something which does not depend on personal point of view but is objective fact
+	- thus as in quote even if truth is in minority it is still truth
+- Examples
+	- Civil (compulsory)
+		- **T. V. Anupama** (2010 batch IAS officer), She single-handedly made Kerala adulteration-free in just a few years, Kerala imported 70% of its vegetables now produce 70% of its vegetables due to her crackdown on Food Safety Standards
+	- Mahabharat, Kuran, Bible, Geeta etc
+		- Story of Raja Harischandra from **Markandeya Purana**, The King who is epitome of Truth and virtuHarishchandra gave away his kingdom, sold his family and agreed to be a slave – all to fulfil a promise he had made to the sage Vishwamitra, who came to test his truthfulness and commitment.
+- Conclusion
+	- Balanced - The truth may be bitter, but it doesn’t have to be told bitterly
+
+#### Love
+- Quote
+- Def
+- Examples
+	- Women, National, International
+	- Civil
+	- Geeta, Mahabhara, Quran etc
+- Constitution
+- Flowchart Diagram
+- Conclusion
+
+#### Peace
+- Quote
+- Def
+- Examples
+	- Women, National, International
+	- Civil
+	- Geeta, Mahabhara, Quran etc
+- Constitution
+- Flowchart Diagram
+- Conclusion
+
+#### Responsibility
+- Quote
+- Def
+- Examples
+	- Women, National, International
+	- Civil
+	- Geeta, Mahabhara, Quran etc
+- Constitution
+- Flowchart Diagram
+- Conclusion
+
+#### Justice
+- Quote
+- Def
+- Examples
+	- Women, National, International
+	- Civil
+	- Geeta, Mahabhara, Quran etc
+- Constitution
+- Flowchart Diagram
+- Conclusion
+
+### Role of family, society and educational institutions in inculcating values
+#### Role of Family
+- Quote
+- 
+#### Role of Society
+- 
+### Role of educational Institutions
+- 
+
 
 
 ## Chapter 2: Attitude
@@ -488,10 +527,131 @@
 3. moral and political attitudes
 4. social influence and persuasion
 
+#### Content, Structure and Function
+
+#### Relation with Thoughts and Behaviour
+
+Quotes
+- "It is our attitude at the beginning of a difficult task which, more than anything else, will affect its successful
+outcome." — William James
+- Attitude is defined as tendencies to behave in certain ways in social situations.
+- Self-awareness: If a person is not aware of his attitudes, attitude will influence the behaviour more
+intensely. But, if a person is aware of his attitudes, he may be conscious of it and try to hide his behaviour.
+
+
+#### Moral and Political Attitudes
+- Moral Attitude
+	- Moral attitude is neither permanent nor universal.
+	- Positive Implications - Motivates a person towards Altruism, volunteerism, social service
+	- Negative Implications - Since moral attitude is tied with strong emotions, people don’t get along with those who don’t share their moral attitude. Ex. Intolerance
+
+- Political Attitude
+	- It refers to the attitude of a person or group towards persons/institutions/events/issues related to political ideology.
+	- 
+
+#### Social Influence and persuasion
+- Main point is attitude can be changed
+
 
 ## Chapter 3: Aptitude and foundational values for Civil Service
 ### Syllabus
-1. integrity, impartiality and non-partisanship, objectivity, dedication to public service, empathy, tolerance and compassion towards the weaker-sections
+
+### Essential Aptitude for civil servants
+
+### integrity
+- Quote
+	- “**One person** of integrity can make a difference.” ― Elie Wiesel
+	- "In looking for people to hire, you look for three qualities: integrity, intelligence, and energy. And if you don’t have the first, the other two will kill you." ― Warren Buffett
+- Def
+	- **Integrity** is the practice of being honest and showing a consistent and uncompromising adherence to strong moral and ethical principles and values.
+- Examples
+	- Women, National, International
+	- Civil
+		- 
+	- Geeta, Mahabhara, Quran etc
+		- 
+- Constitution
+- Flowchart Diagram
+- Conclusion
+
+### impartiality and non-partisanship
+- Quote
+- Def
+- Examples
+	- Women, National, International
+	- Civil
+	- Geeta, Mahabhara, Quran etc
+- Constitution
+- Flowchart Diagram
+- Conclusion
+
+### objectivity
+- Quote
+- Def
+- Examples
+	- Women, National, International
+	- Civil
+	- Geeta, Mahabhara, Quran etc
+- Constitution
+- Flowchart Diagram
+- Conclusion
+
+### dedication to public service
+- Quote
+- Def
+- Examples
+	- Women, National, International
+	- Civil
+	- Geeta, Mahabhara, Quran etc
+- Constitution
+- Flowchart Diagram
+- Conclusion
+
+### empathy
+- Quote
+- Def
+- Examples
+	- Women, National, International
+	- Civil
+	- Geeta, Mahabhara, Quran etc
+- Constitution
+- Flowchart Diagram
+- Conclusion
+
+### tolerance
+- Quote
+- Def
+- Examples
+	- Women, National, International
+	- Civil
+	- Geeta, Mahabhara, Quran etc
+- Constitution
+- Flowchart Diagram
+- Conclusion
+
+### compassion towards the weaker-sections
+- Quote
+- Def
+- Examples
+	- Women, National, International
+	- Civil
+	- Geeta, Mahabhara, Quran etc
+- Constitution
+- Flowchart Diagram
+- Conclusion
+
+### Other Values
+-   Neutrality
+-   Anonymity
+-   Civil Services Accountability
+-   Integrity
+-   Humility
+-   Adaptability
+-   Magnanimity
+-   Perseverance
+-   Impartiality and Non-Partisanship
+-   Tolerance and compassion for the weaker section
+-   Contribution to society
 
 ## Chapter 4: Emotional Intelligence
 ### Syllabus
