@@ -573,17 +573,17 @@ intensely. But, if a person is aware of his attitudes, he may be conscious of it
 
 ### impartiality and non-partisanship
 - Quote
+	- 'Impartiality is not neutrality. It is partiality for justice.' -- Stanislaw Jerzy Lec
 - Def
 - Examples
 	- Women, National, International
 	- Civil
 	- Geeta, Mahabhara, Quran etc
 - Constitution
-- Flowchart Diagram
-- Conclusion
 
 ### objectivity
 - Quote
+	- 
 - Def
 - Examples
 	- Women, National, International
@@ -604,38 +604,37 @@ intensely. But, if a person is aware of his attitudes, he may be conscious of it
 - Flowchart Diagram
 - Conclusion
 
-### empathy
+### Tolerance
 - Quote
-- Def
+	- Tolerance is the only thing that will enable persons belonging to different religions to live as good neighbours and friends.” -- Mahatma Gandhi
+	- “The Highest Result of Education is Tolerance.” – Helen Keller
 - Examples
+	- **Recent**
+		- Human chains formed by Muslims to protect Hindu Temple.
+		- Sikh people made food for muslims during CAA
+		- Temple & mosque panels unite to raise fund for cancer patient in Kerala
 	- Women, National, International
 	- Civil
-	- Geeta, Mahabhara, Quran etc
-- Constitution
-- Flowchart Diagram
-- Conclusion
+	- Ancient India
+		- Kanishka, Buddhist king of India (1st–2nd Cent.) led the politics of tolerance towards all religions. On coins minted at the time of Kanishka one can find Buddha, the gods of Brahmanism, Zoroastrianism and of Greek religion.
 
-### tolerance
+### Empathy and compassion towards the weaker-sections
 - Quote
-- Def
+	- "Love and compassion are necessities, not luxuries. Without them, humanity cannot survive" -- Dalai Lama
+	- "No human heart is denied empathy. No religion can demolish that by indoctrination. No culture, no nation and nationalism – nothing can touch it because it is empathy." -- Swami Dayananda Saraswati
 - Examples
 	- Women, National, International
+		- To me, God and compassion are one and the same. Compassion is the joy of sharing. It’s doing small things for the love of each other-just a smile, or carrying a bucket of water, or showing some simple kindness. These are the small things that make up compassion. -- Mother Teresa
 	- Civil
-	- Geeta, Mahabhara, Quran etc
-- Constitution
-- Flowchart Diagram
-- Conclusion
-
-### compassion towards the weaker-sections
-- Quote
-- Def
-- Examples
-	- Women, National, International
-	- Civil
-	- Geeta, Mahabhara, Quran etc
-- Constitution
-- Flowchart Diagram
-- Conclusion
+		- **S.R. Sankaran** -  former IAS officer was commonly known as **an ideal people’s IAS officer**.
+			- Man behind the **abolition of bonded labour**, the creation of the **special component plan for SCs & STs** and the **assigning of resources for marginalised communities** in the rural development programmes.
+			- He remained unmarried so that he could serve the society and also **contributed to the education of over 500 poor students**.
+	- Quran
+		- **Zakat**, a toll tax, has been made obligatory on all believing Muslims, men or women to help weaker sections. 
+		- The Quran says, “(Zakat) charity is only for the poor and the needy and those employed to administer it, and those whose hearts are made to incline, and (to free) the captives, and those in debt, and in the way of Allah and for the wayfarer an ordinance from Allah. And Allah is Knowing, Wise.”
+	- Geeta
+		- Gita wisdom explains that the best way to become good is to become godly.
+		- The Bhagavad-gita states that **compassion for all living beings** is the first among the defining qualities of devotees. All living beings – **humans, animals and plants** – are precious members of the one divine family.
 
 ### Other Values
 -   Neutrality
@@ -653,6 +652,13 @@ intensely. But, if a person is aware of his attitudes, he may be conscious of it
 ## Chapter 4: Emotional Intelligence
 ### Syllabus
 1. concepts, and their utilities and application in administration and governance
+
+### Definition, Quotes and Examples
+- Definition - Emotional intelligence or EI is the ability to understand and manage your own emotions, and those of the people around you
+- "Our emotions have a mind of their own, one which can hold views quite independently of our rational mind." -- Daniel Goleman
+- “It is very important to understand that emotional intelligence is not the opposite of Intelligence, it is not the triumph of heart over head. It is the unique intersection of both.” -- David Caruso
+- Examples
+	- Krishna showed great EI while understanding and managing the emotions of Arjuna to make him follow path of Dharma even in state of emotional weakness. 
 
 ## Chapter 5: Moral Thinkers and Philosophers
 ### Syllabus
