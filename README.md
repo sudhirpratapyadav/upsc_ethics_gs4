@@ -431,14 +431,3 @@ intensely. But, if a person is aware of his attitudes, he may be conscious of it
 
 
 ## Chapter 8: Case Studies
-
-
-# Sanskrit
-- "loka samastha sukhino bhavanthu" (लोकः समस्ताः सुखिनो भवन्तु - Let The Entire World be Happy)
-- Shanti Parva
-	- The book is set after the war is over- the two sides have accepted peace and [Yudhishthira](https://en.wikipedia.org/wiki/Yudhishthira "Yudhishthira") starts his rule of the [Pandava](https://en.wikipedia.org/wiki/Pandava "Pandava") kingdom. The Shanti parva recites the duties of the ruler, _[dharma](https://en.wikipedia.org/wiki/Dharma "Dharma")_ and good governance, as counseled by the dying [Bhishma](https://en.wikipedia.org/wiki/Bhishma "Bhishma") and various _[Rishis](https://en.wikipedia.org/wiki/Rishi "Rishi")_
-
-Manu Smriti
-- _When the punishment for an ordinary citizen is 1 cent, the punishment for those in ruling class should be 1000 cents. **In other words, the punishment for those in legislation, executive or judiciary should be 1000 times that for ordinary citizens.**_  
-
--
