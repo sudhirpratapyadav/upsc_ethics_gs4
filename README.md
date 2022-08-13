@@ -42,18 +42,61 @@
 	3. Information sharing and transparency in government, Right to Information, Codes of Ethics, Codes of Conduct, Citizen’s Charters, Work culture, Quality of service delivery, Utilization of public funds, challenges of corruption.
 8. Case Studies
 
-## Example
-- Topics
-	- Quote
-	- Def
-	- Examples
-		- Women, National, International
-		- Civil
-		- Geeta, Mahabhara, Quran etc
-	- Constitution
-	- Flowchart Diagram
-	- Conclusion
 
+## Chapter 0: Ethics Moral Quotes
+### Ethics, Values and Morals
+- "Knowledge is Virtue and Knowledge promotes Virtue." -- Socrates
+- "When men are pure, laws are useless; when men are corrupt, laws are broken." — Benjamin Disraeli
+- “In law a man is guilty when he violates the rights of others. In ethics he is guilty if he only thinks of doing so.” ― Immanuel Kant
+- "The heart is a very good fertilizer - anything we plant - love, hate, fear, hope, revenge, jealousy - surely grows and bears fruit. We have to decide what to harvest." -- Swami Vivekanand
+- - Action indeed is the sole medium of expression for ethics. -- Jane Addams
+- Morality may consist solely in the courage of making a choice. -- Leon Blum
+- Every man, in his own opinion, forms an exception to the ordinary rules of morality. -- William Hazlitt
+- Ordinary morality is innate in my view. -- Christopher Hitchens
+- Morality is not the doctrine of how we may make ourselves happy, but how we may make ourselves worthy of happiness. --Immanuel Kant
+- Morality is not just any old topic in psychology but close to our conception of the meaning of life. Moral goodness is what gives each of us the sense that we are worthy human beings. -- Steven Pinker
+- Taste is the only morality. Tell me what you like and I’ll tell you what you are. -- John Ruskin
+- Ethics is in origin the art of recommending to others the sacrifices required for cooperation with oneself. -- Bertrand Russell
+- The first step in the evolution of ethics is a sense of solidarity with other human beings. -- Albert Schweitzer
+- Ethics is nothing else than reverence for life. -- Albert Schweitzer
+- Compassion is the basis of morality. -- Arthur Schopenhauer
+- A system of morality that is based on relative emotional values is a mere illusion, a thoroughly vulgar conception that has nothing sound in it and nothing true. -- Socrates (**MORAL RELATIVITY**)
+- Morality is only moral when it is voluntary. -- Lincoln Steffens
+- The rules of morality are not the conclusion of our reason. -- David Hume
+- History shows that where ethics and economics come in conflict, victory is always with economics. Vested interests have never been known to have willingly divested themselves unless there was sufficient force to compel them. -- B. R. Ambedkar
+- The science of morality is about maximizing psychological and social health. It’s really no more inflammatory than that. -- Sam Harris
+- The stirrings of morality emerge early in childhood. Toddlers spontaneously offer toys and help to others and try to comfort people they see in distress. -- Steven Pinker
+- A people and their religion must be judged by social standards based on social ethics. No other standard would have any meaning if religion is held to be a necessary good for the well-being of the people. -- B. R. Ambedkar
+- Religion without morality is a superstition and a curse, and morality without religion is impossible. -- Mark Hopkins
+- Teach a child what is wise, that is morality. Teach him what is wise and beautiful, that is religion! -- Thomas Huxley
+
+### Education
+- “Education is the most powerful weapon which you can use to change the world.” ―Nelson Mandela
+- “By education I mean an all-round drawing out of the best in child and man-body, mind and spirit. Literacy is not the end of education or even the beginning.” – M. K. Gandhi
+- “Real knowledge is to know the extent of one’s ignorance.” -- Confucius
+- “Education without values, as useful as it is, seems rather to make man a cleverer devil.” ― C.S. Lewis
+
+### Character
+- “In times to come people will not judge us by the creed we profess or the label we wear or the slogans we shout, but, by our work, industry, sacrifice, honesty and purity of character.” — Mahatma Gandhi
+- “Nearly all men can stand adversity, but if you want to test a man's character, give him power.” — Abraham Lincoln
+- “Always do right. This will gratify some people, and astonish the rest.” -- Mark Twain
+- "The great hope of society is individual character." -- William Ellery Channing
+
+### Conscience
+- Conscience is a man's compass.” -- Vincent van Gogh
+- “Never do anything against conscience even if the state demands it.” -- Albert Einstein
+- “There is no witness so terrible and no accuser so powerful as conscience which dwells within us.” -- Sophocles
+
+### Integrity
+- "Real integrity is doing the right thing, knowing that nobody's going to know whether you did it or not." -- Oprah Winfrey
+
+### Justice
+- "The time is always right to do what is right." -- Martin Luther King
+- "Injustice anywhere is a threat to justice everywhere." -- Martin Luther King
+- “A right delayed is a right denied.” -- Martin Luther King
+
+### Love
+- "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that." -- Martin Luther King
 
 ## Chapter 1: Ethics and Human Interface
 ### Syllabus
@@ -222,14 +265,10 @@
 	- Social Identity - align towards our social identity
 
 #### Influence and relation with Thoughts and Behaviour
-
-Quotes
-- "It is our attitude at the beginning of a difficult task which, more than anything else, will affect its successful
-outcome." — William James
-- Attitude is defined as tendencies to behave in certain ways in social situations.
-- Self-awareness: If a person is not aware of his attitudes, attitude will influence the behaviour more
-intensely. But, if a person is aware of his attitudes, he may be conscious of it and try to hide his behaviour.
-
+- Quotes
+	- "It is our attitude at the beginning of a difficult task which, more than anything else, will affect its successful outcome." — William James
+	- Attitude is defined as tendencies to behave in certain ways in social situations.
+	- Self-awareness: If a person is not aware of his attitudes, attitude will influence the behaviour more intensely. But, if a person is aware of his attitudes, he may be conscious of it and try to hide his behaviour.
 
 #### Moral and Political Attitudes
 - Moral Attitude
@@ -304,11 +343,15 @@ intensely. But, if a person is aware of his attitudes, he may be conscious of it
 		- Gita wisdom explains that the best way to become good is to become godly.
 		- The Bhagavad-gita states that **compassion for all living beings** is the first among the defining qualities of devotees. All living beings – **humans, animals and plants** – are precious members of the one divine family.
 
-### impartiality, non-partisanship and objectivity
+### impartiality, non-partisanship, Neutrality and objectivity
 - Quote
 	- 'Impartiality is not neutrality. It is partiality for justice.' -- Stanislaw Jerzy Lec
 - Def
 	- Impartiality is a principle of justice holding that decisions should be **based on objective criteria**, **rather than** on the basis of **bias, prejudice**, or preferring the benefit to one person over another for improper reasons.
+	- Neutrality Definition
+		- Serve different regimes/parties with same enthusiasm.
+		- Stay away from political affiliations
+		- Political impartially is neutrality.
 - Examples
 	- Women, National, International
 		- Mahatma Gandhi is epitome of impartiality, being a Hindu himself, he never had prejudice against Muslims and never biased towards his own identity. He was the one who brought Muslims and Hindu working together during Khilafat movement. Muslims used to trust Mahatma Gandhi even him being a Hindu.
@@ -316,18 +359,26 @@ intensely. But, if a person is aware of his attitudes, he may be conscious of it
 	- Geeta, Mahabhara, Quran etc
 		- **Vidur** The most Impartial Character of Mahabharata. Even though he was serving Kauravas, he took the stand for the just from Cheerharan to choosing not to fight against the Pandavas.
 
-### Neutrality
-- Definition
-	- Serve different regimes/parties with same enthusiasm.
-	- Stay away from political affiliations
-- 
-
 ### Anonymity
-- 
+- Quotes
+	- **PM Modi** compared the civil services to the **fourth lion of the Ashoka emblem**, which **remains invisible yet makes its presence felt at all times.**
+- Definition
+	- Bureaucrat is supposed to work behind the curtain and avoid media limelight and public gaze.
+	- He’ll not get credit for the success and he’ll not be blamed for the failure. It’ll be responsibility of the political executive to handle all the applaud and criticism.
+- Example
+	- Mundhra deal scam (1957): Chagla commission held that Minister T.T.Krishnamachari is constitutionally responsible for the actions of his secretary (H.M.Patel)- he can’t take shelter behind them or disown reasonability.” Consequently, Minister resigned.
+- **Vindication of official acts:** Suppose public/press has made some remarks against him for his official conduct. He cannot file defamation suit against them or make press statements, without government permission.
 
 ### Accountability
-- Quote
-	- 
+- Quotes
+	-  **"It is not only what we do, but also what we do not do, for which we are accountable."** ― Moliere
+	- "It is wrong and immoral to seek to escape the consequences of one's acts." ― Mahatma Gandhi
+	- "On good teams coaches hold players accountable, on great teams players hold players accountable."   ― Joe Dumars
+	- "Good men are **bound by conscience** and **liberated by accountability**." ― Wes Fessler
+- Definition
+	- Accountability means to take ownership of the outcomes of an action and address the issues arising out of it fairly and promptly.
+- Examples
+	- For instance a clear example of accountability shown by public servant, is **when VikramSarabai accepted the failure of ISRO first mission without actually putting it on the mission head** (APJ Abdul Kalam). It also includes accountability to public funds, accountability to rule of law etc.
 
 ### dedication to public service
 - Quote
@@ -341,8 +392,6 @@ intensely. But, if a person is aware of his attitudes, he may be conscious of it
 - Conclusion
 	- Life has all its share of emotions of happiness and sorrow and man bounds to them as a part of his life. But of all the above, there is one important aspect which man needs to be bounded and that is the call of duty. Duty is the most important aspect which defines the role of man in abiding himself to Dharma.
 	- Shri Ram reminds that duty always comes first
-
-
 
 ## Chapter 4: Emotional Intelligence
 ### Syllabus
@@ -425,9 +474,102 @@ intensely. But, if a person is aware of his attitudes, he may be conscious of it
 ### Codes of Conduct
 
 ### Citizens's Charter
+
 ### Work culture
+
 ### Corruption
 
 
-
 ## Chapter 8: Case Studies
+
+## Chapter 9: Governance Models of India and West
+
+### Arthashastra (composed between 3rd-2nd Century,  Kautilya/Chanakya)
+- The Arthashastra is a primeval Indian discourse on **statecraft**, **economic** policy and **military** strategy.
+	-  It includes topics like statecraft, politics, strategy, selection and training of employees, leadership skills, legal systems, accounting systems, taxation, fiscal policies, civil rules, internal and foreign trade etc.
+- Arthashastra entails the science (sastra) of wealth/earth/polity (artha). 
+- Arthashastra backs **rational ethic** to the conduct of the affairs of the state. The emphasis is on **systematisation of law** and **uniformity of law** throughout the empire.
+- Concept of Welfare State
+	-  Welfare in all areas. not just human well being, but also about animal welfare.
+	- according to Kautilya, King is "ever engaged in advancing the welfare of the people and who endears himself by benefiting the public and doing right to them."
+- Saptang Model (Elements of State)
+	- ![[Pasted image 20220813124829.png]]
+	- Modern Relations 
+		1.  King or _Swami_ -- PM
+		2.  Minister or _Amatya_ -- COM
+		3.  Territory or _Janapada_ -- Participatory Janpada (Panchayat)
+		4.  Fort or _Durga_ -- Infrastructure (defence Infra)
+		5.  Treasury or _Kosha_ -- Finance
+		6.  Punishment or _Danda_ -- Judiciary
+		7.  Allies or _Mitra_ -- Foreign Policy
+-  According to Kautilya, good governance consisted of **three basic elements**:
+	- (1) Provision of **national security** and **public infrastructure**, such as roads to facilitate and promote commerce
+	- (2) Formulation of **efficient** (farsighted and well thought-out) **policies** and their effective implementation, removal of all obstructions to economic growth and **tax incentives to encourage capital formation**, and
+	- (3) Ensuring a **fair, caring and clean** administration. 
+- Other aspects of Good Governance
+	- _Arthashastra_ describes the **king as servant of state** who would harbour no personal likes and dislikes.
+	- Kautilya stated that **good governance and stability go together.**
+		- There is stability if rulers are **responsive**, **responsible**, **accountable** and **removable**, otherwise there would be instability.
+	- Four methods were advocated for **settlement of disputes**
+		- Sama (conciliation), Dama (appeasement), Bheda (dividing), and Danda (use of force) to be employed as last resort.
+	- King to be held accountable for:
+		- Achievement oriented behaviour in terms of well being, happiness and prosperity and security of subjects. judicious use of authority.
+		- Pursuit of happiness of people.
+		- Use of reason and experience as basis of decision.
+		- Shirking of work to be identified and punished.
+		- Designing appropriate **audit system to prevent corruption.**
+		- Strength of character, intelligence, perseverance of civil servants.
+		- Uprightness, friendliness and firmness of devotion in dealing with others.
+- **4 Nitis to stop corruption**
+	- **Saam** - Teaching and awaking public and public officials about **ethical values in the administration**, code of conduct, code of ethics etc.
+	- **Daam** - Incentivising hard working officials, **recognising the honest people** and better salary structures, better working conditions and best service conditions. There should be a **grievance redressal** mechanism for both public and public officials.
+	- **Dand** - Those who indulge in corrupt activities should get **punishment**. Punishments acts as deterrents and creates fear among the officials which results corruption becomes high risk activity but in India corruption is a low risk activity and high gain activity.
+	- **Bhed** - **Vigilance, Intelligence and spy system** on those who going against rules, taking bribes, unaccounted money etc to be reported.
+
+### Governance in Ramayana
+- **Ramarajya** as described in Ramayana had **all characteristics of democracy**..
+- Everyone enjoyed socio-religious freedom.
+- Although Rama was ruler, every person had right to speak his or her mind.
+
+### Good Governance in Shanti Parva (Mahabharat)
+- After the Great War, King **Yudhishthira approached Bhishma who was lying on a bed of arrows** and **requested him to give a discourse on duties and morality** of king, officials and public
+- Duties of kings are
+	- **make their subjects happy**
+	- to **observe truth**
+	- **protecting Dharma**
+		- **Righteousness is called Dharma**. It is Dharma that restraints and limits all evil acts of men
+	- **Devoting his life in service of his subjects**
+	- Formation of good governance is Dharma.
+	- King, ministers and employees who have taken oath of their offices to upholding Dharma and to **act in accordance with common good**, must not act unjustly or unethically so as to secure their private good through selfishness.
+
+
+### Max Weber’s - Bureaucracy Theory
+- Max Weber's 4 Properties of Bureacracy
+	- **Specialization of labour**
+	- A **formal set of rules** and regulations
+	- Well-defined **hierarchy** within the organization
+	- **Impersonality** in the application of rules
+
+### George Elton Mayo
+- George Elton Mayo is popularly known as the father of Human Relation Theory of an Organisation
+- ![[Pasted image 20220813224409.png]]
+- Hawthorne Experiments (Read once then remember titles)
+	- **The Great Illumination**
+		- Mayo first checked the assumption that the ‘better the light, the better the work’. To study the effects of altered illumination on work, he selected 2 groups of employees, called as control group, the lighting was kept at a fixed level, it was first increased in intensity in the other group and later on it was decreased. The results were dramatic as it was found that in the experimental group, the output showed an increase in all the cases. Moreover, it was seen that the output of the control group too registered an increase despite the fact that no lighting changes were made in it. It hence means that physical factors at work e.g. lighting had nothing to do with production beyond a certain level and the increase in output should be due to some unknown factor.
+	- **The Relay Assembly Test Room Experiment**
+		- In this group of six girls was selected. The group was initially constituted by first selecting 2 girls who were then asked to select 4 more girls of their choice. The group was employed in assembling telephone relays, which is a small but intricate electronic equipment, composed of nearly 40 separate parts. The group was subjected to various changes throughout the series of experiments, which lasted over a period of five years and an observer sat with the girls in the workshop noting any changes in the rate of production and keeping the girls informed about the experiment as well as asking for their advice or information and listening to their complaints. In short, he noted everything that went on in the relay assembly test room.
+	- **Mass Interviewing Programme**
+		- During the course of the experiment about 20,000 interviews were conducted to determine employees attitude towards their company, supervision, insurance plans, promotion and wages. Initially, the employees were questioned directly but later on realising the limitations of this approach, a questionnaire was prepared and circulated among the employees. The answers to these were analysed and it was realised that the social factors, both inside and outside the organisation affect the attitude of workers towards the work that they are doing. During the course of the mass interviews, it was also observed that the worker’s behaviour was being influenced by the group behaviour. This was reflected more so in terms of restricted output set up by the group norm. However, such observation could not be clearly verified in this stage of experiment and hence a detailed study of this aspect was carried out under shop situation to find out the behaviour of workers in small groups under the bank wiring room experiment.
+	- **Bank Wiring Room Experiment**
+		- Mayo noticed that the social groups formed in the factory workshop were capable of exercising considerable influence over the behaviour of their individual members. He hence decided to investigate the Bank Wiring Room, where he felt there was a great scope for improvement in output but he found that the output was restricted despite adequate financial incentives.
+
+
+### Peter Drucker - Management Theory
+- Peter Drucker believed that business leaders need to embrace the **“spirit of performance”** by displaying high levels of moral and ethical integrity in their actions, focusing on results, empowering employees, going beyond financial obligations to shareholders, and ultimately serving the common good.
+
+## Chapter 10: Recent Examples (including Civil Servants)
+### Exemplary Civil Servants
+- 
+
+### Recent Examples
+- 
