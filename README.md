@@ -49,7 +49,7 @@
 - "When men are pure, laws are useless; when men are corrupt, laws are broken." — Benjamin Disraeli
 - “In law a man is guilty when he violates the rights of others. In ethics he is guilty if he only thinks of doing so.” ― Immanuel Kant
 - "The heart is a very good fertilizer - anything we plant - love, hate, fear, hope, revenge, jealousy - surely grows and bears fruit. We have to decide what to harvest." -- Swami Vivekanand
-- - Action indeed is the sole medium of expression for ethics. -- Jane Addams
+- Action indeed is the sole medium of expression for ethics. -- Jane Addams
 - Morality may consist solely in the courage of making a choice. -- Leon Blum
 - Every man, in his own opinion, forms an exception to the ordinary rules of morality. -- William Hazlitt
 - Ordinary morality is innate in my view. -- Christopher Hitchens
@@ -552,7 +552,7 @@
 
 ### George Elton Mayo
 - George Elton Mayo is popularly known as the father of Human Relation Theory of an Organisation
-- ![[Pasted image 20220813224409.png]]
+- ![mind_map_elton_mayo](https://github.com/sudhirpratapyadav/upsc_ethics_gs4/blob/main/mind_map_elton_mayo.png?raw=true)
 - Hawthorne Experiments (Read once then remember titles)
 	- **The Great Illumination**
 		- Mayo first checked the assumption that the ‘better the light, the better the work’. To study the effects of altered illumination on work, he selected 2 groups of employees, called as control group, the lighting was kept at a fixed level, it was first increased in intensity in the other group and later on it was decreased. The results were dramatic as it was found that in the experimental group, the output showed an increase in all the cases. Moreover, it was seen that the output of the control group too registered an increase despite the fact that no lighting changes were made in it. It hence means that physical factors at work e.g. lighting had nothing to do with production beyond a certain level and the increase in output should be due to some unknown factor.
