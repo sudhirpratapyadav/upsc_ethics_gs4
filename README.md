@@ -487,9 +487,9 @@
 	- This is most important point, read question very carefully and mark important words
 - Write from Leaders point of view -> always give rational/practical but ALSO ETHICAL SOLUTION
 - Approaches – ethical flavor – not GS answer
-	- Stakeholder approach
+	- **Stakeholder approach**
 		- Identify all possible stakeholders and then give answer keeping all in mind, list points stakeholder wise
-	- Ethical-dilemma’s approach
+	- **Ethical-dilemma’s approach**
 		- Identify Ethical-Dilemmas present in case study and then resolve each dillema
 	- Hybrid - mix above two approaches
 - Don’t give general answers -> ‘I will maintain transparency & accountability’, ‘I will be honest’ etc. -> How? be specific -> provide solution on ground
