@@ -482,6 +482,26 @@
 
 ## Chapter 8: Case Studies
 
+### Points to keep in mind
+- **Mark Keywords** -> Don’t leave any aspect untouched -> attempt/write about all angles/aspects/keywords
+	- This is most important point, read question very carefully and mark important words
+- Write from Leaders point of view -> always give rational/practical but ALSO ETHICAL SOLUTION
+- Approaches – ethical flavor – not GS answer
+	- Stakeholder approach
+		- Identify all possible stakeholders and then give answer keeping all in mind, list points stakeholder wise
+	- Ethical-dilemma’s approach
+		- Identify Ethical-Dilemmas present in case study and then resolve each dillema
+	- Hybrid - mix above two approaches
+- Don’t give general answers -> ‘I will maintain transparency & accountability’, ‘I will be honest’ etc. -> How? be specific -> provide solution on ground
+- Empathy -> not only towards public but towards colleagues/juniors/seniors too
+	- Usually while writing answer we only think about what is best for public, this point is to remind you that keep holistic view public is just one stakeholder
+- Example from real life
+
+### Check this link for more details on above points
+- https://becomingias.com/upsc-ethics-case-studies-super-simplified/
+- Practice few questions specifically keeping this template in front of table - don't try to learn instantly - keep it in front and try to follow it - later do without this template
+
+
 ## Chapter 9: Governance Models of India and West
 
 ### Arthashastra (composed between 3rd-2nd Century,  Kautilya/Chanakya)
@@ -493,7 +513,7 @@
 	-  Welfare in all areas. not just human well being, but also about animal welfare.
 	- according to Kautilya, King is "ever engaged in advancing the welfare of the people and who endears himself by benefiting the public and doing right to them."
 - Saptang Model (Elements of State)
-	- ![[Pasted image 20220813124829.png]]
+	- ![mind_map_elton_mayo](https://github.com/sudhirpratapyadav/upsc_ethics_gs4/blob/main/saptang_model.png?raw=true)
 	- Modern Relations 
 		1.  King or _Swami_ -- PM
 		2.  Minister or _Amatya_ -- COM
@@ -572,4 +592,4 @@
 - 
 
 ### Recent Examples
-- 
+- Check PRAHAR Ethics for CSE Mains - Last section is current affairs related to Ethics
